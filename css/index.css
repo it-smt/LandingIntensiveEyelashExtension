@@ -1,0 +1,247 @@
+.content {
+  padding: 118px 0 198px 0;
+}
+.content__welcome {
+  margin: 0 0 96px 0;
+}
+.content__intensive {
+  margin: 0 0 151px 0;
+}
+.content__online {
+  margin: 0 0 159px 0;
+}
+.welcome__row {
+  display: flex;
+  justify-content: space-between;
+}
+.welcome__body {
+  max-width: 595px;
+  margin: 90px 21px 0 0;
+}
+.welcome__title {
+  font-family: "Futura";
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 66px;
+  color: #ffffff;
+  text-shadow: 0px 0px 10px #a387c4;
+  margin: 0 0 20px 0;
+}
+.welcome__subtitle {
+  font-family: "Futura";
+  font-size: 16px;
+  line-height: 150%;
+  color: #fff;
+  max-width: 565px;
+}
+.welcome__subtitle p {
+  font-weight: 500;
+  margin: 0 0 18px 0;
+}
+.welcome__subtitle p:last-child {
+  margin: 0 0 20px 0;
+}
+.welcome__subtitle span {
+  font-weight: 700;
+}
+.welcome__numbers {
+  display: flex;
+  align-items: center;
+}
+.welcome__salary {
+  font-family: "Futura";
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 66px;
+  color: #ffffff;
+  margin: 0 70px 0 0;
+}
+.welcome__salary span {
+  display: block;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+}
+.welcome__clients {
+  font-family: "Futura";
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 66px;
+  color: #ffffff;
+}
+.welcome__clients span {
+  display: block;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+}
+.intensive {
+  padding: 70px 130px 76px 130px;
+  border: 5px solid #a387c4;
+  box-shadow: 0px 0px 10px 3px #a387c4;
+  border-radius: 30px;
+  position: relative;
+}
+.intensive__preview {
+  font-family: "Futura";
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 27px;
+  text-align: center;
+  color: #ffffff;
+  margin: 0 0 19px 0;
+}
+.intensive__title {
+  font-family: "Futura";
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 66px;
+  text-align: center;
+  color: #ffffff;
+  max-width: 864px;
+  margin: 0 auto;
+}
+.intensive__button {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: -35px;
+  font-family: "Futura";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 21px;
+  color: #ffffff;
+  background: #a387c4;
+  border-radius: 30px;
+  padding: 25px 142px;
+}
+.intensive__image-1 {
+  position: absolute;
+  left: -17px;
+  bottom: -91px;
+}
+.intensive__image-2 {
+  position: absolute;
+  right: -26px;
+  bottom: -91px;
+}
+
+.online {
+  border: 5px solid #a387c4;
+  box-shadow: 0px 0px 10px 3px #a387c4;
+  border-radius: 30px;
+  padding: 70px 130px 73px 130px;
+  position: relative;
+}
+.online__preview {
+  font-family: "Futura";
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 27px;
+  text-align: center;
+  color: #ffffff;
+  margin: 0 0 19px 0;
+}
+.online__title {
+  font-family: "Futura";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 66px;
+  text-align: center;
+  color: #ffffff;
+  max-width: 865px;
+  margin: 0 auto 7px auto;
+}
+.online__price {
+  font-family: "Futura";
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 27px;
+  text-align: center;
+  color: #ffffff;
+}
+.online__button {
+  display: block;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: -35px;
+  font-family: "Futura";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 21px;
+  color: #ffffff;
+  background: #a387c4;
+  border-radius: 30px;
+  padding: 25px 142px;
+}
+.online__detail {
+  display: block;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: -73px;
+  font-family: "Futura";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 21px;
+  text-align: center;
+  text-decoration-line: underline;
+  color: #ffffff;
+}
+.online__image-1 {
+  display: block;
+  position: absolute;
+  left: -10px;
+  bottom: -108px;
+}
+.online__image-2 {
+  display: block;
+  position: absolute;
+  right: -16px;
+  bottom: -99px;
+}
+
+.tik-tok {
+  border: 5px solid #a387c4;
+  box-shadow: 0px 0px 10px 3px #a387c4;
+  border-radius: 30px;
+  padding: 72px 260px 85px 260px;
+  position: relative;
+}
+.tik-tok__title {
+  font-family: "Futura";
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 66px;
+  text-align: center;
+  color: #ffffff;
+}
+.tik-tok__button {
+  display: block;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: -35px;
+  font-family: "Futura";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 21px;
+  color: #ffffff;
+  background: #a387c4;
+  border-radius: 30px;
+  padding: 25px 142px;
+}
+.tik-tok__image-1 {
+  display: block;
+  position: absolute;
+  left: -17px;
+  bottom: -126px;
+}
+.tik-tok__image-2 {
+  display: block;
+  position: absolute;
+  right: -41px;
+  bottom: -144px;
+}
