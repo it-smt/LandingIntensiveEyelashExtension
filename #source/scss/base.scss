@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant:wght@400;500;600;700&display=swap");
+@import "fonts";
+
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+	background-color: #4c3d74;
+}
+
+.container {
+	max-width: 1173px;
+	padding: 0 10px;
+	margin: 0 auto;
+}
+
+body {
+	font-family: "Cormorant", serif;
+	font-weight: 400;
+}
